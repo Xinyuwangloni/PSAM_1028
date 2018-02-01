@@ -3,4 +3,4 @@ Name: Xinyu Wang
 
 Major: Strategic Design and Management
 
-Year: Freshman
+2017
